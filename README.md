@@ -28,7 +28,7 @@ The application allows waiters to monitor table statuses, manage orders, calcula
 
 | Add Dish | Delete Dish |
 |-------------------|-------------------|
-| ![Add Dish](screenshots/add_dish.png) | ![Delete Dish](screenshots/delete.table.png) |
+| ![Add Dish](screenshots/add_dish.png) | ![Delete Dish](screenshots/delete_table.png) |
 
 ## Architecture
 
