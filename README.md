@@ -203,4 +203,5 @@ Future improvements may include:
 
 ## Author
 
+noderunnersom
 Developed as a Flutter portfolio project.
